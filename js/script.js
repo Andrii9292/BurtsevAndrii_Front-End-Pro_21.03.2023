@@ -1,3 +1,4 @@
+'use strict';
 let operand1 = +prompt('Введите первое число:');
 let operand2 = +prompt('Введите второе число:');
 function add(a, b) {
