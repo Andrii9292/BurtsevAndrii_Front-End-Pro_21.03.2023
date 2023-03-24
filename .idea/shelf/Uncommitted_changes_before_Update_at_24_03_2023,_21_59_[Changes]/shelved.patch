@@ -1,0 +1,162 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<project version=\"4\">\n  <component name=\"AutoImportSettings\">\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\n  </component>\n  <component name=\"ChangeListManager\">\n    <list default=\"true\" id=\"a67e8f43-b89b-4e55-8ece-327e4fe909ef\" name=\"Changes\" comment=\"commit\">\n      <change afterPath=\"$PROJECT_DIR$/index.html\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/js/script.js\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/Readme.md\" beforeDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/code_structure/index.html\" beforeDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/code_structure/js/script.js\" beforeDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/connect_script_to_html/index.html\" beforeDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/connect_script_to_html/js/script-example.js\" beforeDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/strict_mode/index.html\" beforeDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/strict_mode/js/script.js\" beforeDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/variabels/index.html\" beforeDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/variabels/js/constants.js\" beforeDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/variabels/js/variables.js\" beforeDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/variabels/js/variables_names.js\" beforeDir=\"false\" />\n    </list>\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\n  </component>\n  <component name=\"Git.Settings\">\n    <option name=\"RECENT_BRANCH_BY_REPOSITORY\">\n      <map>\n        <entry key=\"$PROJECT_DIR$\" value=\"dz1\" />\n      </map>\n    </option>\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\n  </component>\n  <component name=\"GitHubPullRequestSearchHistory\">{\n  &quot;lastFilter&quot;: {\n    &quot;state&quot;: &quot;OPEN&quot;\n  }\n}</component>\n  <component name=\"GithubPullRequestsUISettings\">\n    <option name=\"selectedUrlAndAccountId\">\n      <UrlAndAccount>\n        <option name=\"accountId\" value=\"68aa98a9-19bb-4e6a-8276-7f841727850f\" />\n        <option name=\"url\" value=\"https://github.com/Andrii9292/BurtsevAndrii_Front-End-Pro_21.03.2023.git\" />\n      </UrlAndAccount>\n    </option>\n  </component>\n  <component name=\"MarkdownSettingsMigration\">\n    <option name=\"stateVersion\" value=\"1\" />\n  </component>\n  <component name=\"ProblemsViewState\">\n    <option name=\"selectedTabId\" value=\"CurrentFile\" />\n  </component>\n  <component name=\"ProjectId\" id=\"2NJPal2qC235WL2gcrO4FmbB5Go\" />\n  <component name=\"ProjectViewState\">\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\n    <option name=\"showLibraryContents\" value=\"true\" />\n  </component>\n  <component name=\"PropertiesComponent\">{\n  &quot;keyToString&quot;: {\n    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,\n    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,\n    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,\n    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,\n    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,\n    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,\n    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,\n    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,\n    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;\n  }\n}</component>\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\n  <component name=\"TaskManager\">\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\n      <changelist id=\"a67e8f43-b89b-4e55-8ece-327e4fe909ef\" name=\"Changes\" comment=\"\" />\n      <created>1679379278551</created>\n      <option name=\"number\" value=\"Default\" />\n      <option name=\"presentableId\" value=\"Default\" />\n      <updated>1679379278551</updated>\n      <workItem from=\"1679379279805\" duration=\"13000\" />\n      <workItem from=\"1679379319189\" duration=\"1000\" />\n      <workItem from=\"1679379760346\" duration=\"1160000\" />\n      <workItem from=\"1679380968511\" duration=\"2036000\" />\n      <workItem from=\"1679385184656\" duration=\"294000\" />\n      <workItem from=\"1679386459876\" duration=\"353000\" />\n    </task>\n    <task id=\"LOCAL-00001\" summary=\"commit\">\n      <created>1679380451651</created>\n      <option name=\"number\" value=\"00001\" />\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1679380451651</updated>\n    </task>\n    <task id=\"LOCAL-00002\" summary=\"commit\">\n      <created>1679384971183</created>\n      <option name=\"number\" value=\"00002\" />\n      <option name=\"presentableId\" value=\"LOCAL-00002\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1679384971183</updated>\n    </task>\n    <option name=\"localTasksCounter\" value=\"3\" />\n    <servers />\n  </component>\n  <component name=\"TypeScriptGeneratedFilesManager\">\n    <option name=\"version\" value=\"3\" />\n  </component>\n  <component name=\"Vcs.Log.Tabs.Properties\">\n    <option name=\"TAB_STATES\">\n      <map>\n        <entry key=\"MAIN\">\n          <value>\n            <State>\n              <option name=\"FILTERS\">\n                <map>\n                  <entry key=\"branch\">\n                    <value>\n                      <list>\n                        <option value=\"master\" />\n                      </list>\n                    </value>\n                  </entry>\n                </map>\n              </option>\n            </State>\n          </value>\n        </entry>\n      </map>\n    </option>\n    <option name=\"RECENT_FILTERS\">\n      <map>\n        <entry key=\"Branch\">\n          <value>\n            <list>\n              <RecentGroup>\n                <option name=\"FILTER_VALUES\">\n                  <option value=\"dz2\" />\n                </option>\n              </RecentGroup>\n              <RecentGroup>\n                <option name=\"FILTER_VALUES\">\n                  <option value=\"origin/dz1\" />\n                </option>\n              </RecentGroup>\n            </list>\n          </value>\n        </entry>\n      </map>\n    </option>\n  </component>\n  <component name=\"VcsManagerConfiguration\">\n    <MESSAGE value=\"commit\" />\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"commit\" />\n  </component>\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision 03e8affa8a87ebed94bff713871259ed6e94f775)
++++ b/.idea/workspace.xml	(date 1679662748263)
+@@ -4,21 +4,9 @@
+     <option name="autoReloadType" value="SELECTIVE" />
+   </component>
+   <component name="ChangeListManager">
+-    <list default="true" id="a67e8f43-b89b-4e55-8ece-327e4fe909ef" name="Changes" comment="commit">
+-      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/js/script.js" afterDir="false" />
++    <list default="true" id="a67e8f43-b89b-4e55-8ece-327e4fe909ef" name="Changes" comment="wrote functions for all operations">
+       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/Readme.md" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/code_structure/index.html" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/code_structure/js/script.js" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/connect_script_to_html/index.html" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/connect_script_to_html/js/script-example.js" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/strict_mode/index.html" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/strict_mode/js/script.js" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/variabels/index.html" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/variabels/js/constants.js" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/variabels/js/variables.js" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/variabels/js/variables_names.js" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/js/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/script.js" afterDir="false" />
+     </list>
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+@@ -28,7 +16,7 @@
+   <component name="Git.Settings">
+     <option name="RECENT_BRANCH_BY_REPOSITORY">
+       <map>
+-        <entry key="$PROJECT_DIR$" value="dz1" />
++        <entry key="$PROJECT_DIR$" value="master" />
+       </map>
+     </option>
+     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+@@ -57,19 +45,28 @@
+     <option name="hideEmptyMiddlePackages" value="true" />
+     <option name="showLibraryContents" value="true" />
+   </component>
+-  <component name="PropertiesComponent">{
+-  &quot;keyToString&quot;: {
+-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
++  <component name="PropertiesComponent"><![CDATA[{
++  "keyToString": {
++    "RunOnceActivity.OpenProjectViewOnStart": "true",
++    "RunOnceActivity.ShowReadmeOnStart": "true",
++    "WebServerToolWindowFactoryState": "false",
++    "last_opened_file_path": "/Users/andrey/Downloads/dz/BurtsevAndrii_Front-End-Pro_21.03.2023",
++    "node.js.detected.package.eslint": "true",
++    "node.js.detected.package.tslint": "true",
++    "node.js.selected.package.eslint": "(autodetect)",
++    "node.js.selected.package.tslint": "(autodetect)",
++    "nodejs_package_manager_path": "npm",
++    "vue.rearranger.settings.migration": "true"
+   }
+-}</component>
++}]]></component>
++  <component name="RecentsManager">
++    <key name="CopyFile.RECENT_KEYS">
++      <recent name="$PROJECT_DIR$" />
++    </key>
++    <key name="MoveFile.RECENT_KEYS">
++      <recent name="$PROJECT_DIR$/task1" />
++    </key>
++  </component>
+   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+   <component name="TaskManager">
+     <task active="true" id="Default" summary="Default task">
+@@ -99,7 +96,63 @@
+       <option name="project" value="LOCAL" />
+       <updated>1679384971183</updated>
+     </task>
+-    <option name="localTasksCounter" value="3" />
++    <task id="LOCAL-00003" summary="added task1">
++      <created>1679660071129</created>
++      <option name="number" value="00003" />
++      <option name="presentableId" value="LOCAL-00003" />
++      <option name="project" value="LOCAL" />
++      <updated>1679660071129</updated>
++    </task>
++    <task id="LOCAL-00004" summary="added task2">
++      <created>1679660150964</created>
++      <option name="number" value="00004" />
++      <option name="presentableId" value="LOCAL-00004" />
++      <option name="project" value="LOCAL" />
++      <updated>1679660150964</updated>
++    </task>
++    <task id="LOCAL-00005" summary="added task3">
++      <created>1679660358069</created>
++      <option name="number" value="00005" />
++      <option name="presentableId" value="LOCAL-00005" />
++      <option name="project" value="LOCAL" />
++      <updated>1679660358069</updated>
++    </task>
++    <task id="LOCAL-00006" summary="added task1">
++      <created>1679660599848</created>
++      <option name="number" value="00006" />
++      <option name="presentableId" value="LOCAL-00006" />
++      <option name="project" value="LOCAL" />
++      <updated>1679660599848</updated>
++    </task>
++    <task id="LOCAL-00007" summary="added task1">
++      <created>1679660707212</created>
++      <option name="number" value="00007" />
++      <option name="presentableId" value="LOCAL-00007" />
++      <option name="project" value="LOCAL" />
++      <updated>1679660707212</updated>
++    </task>
++    <task id="LOCAL-00008" summary="added task2">
++      <created>1679660718781</created>
++      <option name="number" value="00008" />
++      <option name="presentableId" value="LOCAL-00008" />
++      <option name="project" value="LOCAL" />
++      <updated>1679660718781</updated>
++    </task>
++    <task id="LOCAL-00009" summary="added task3">
++      <created>1679660729960</created>
++      <option name="number" value="00009" />
++      <option name="presentableId" value="LOCAL-00009" />
++      <option name="project" value="LOCAL" />
++      <updated>1679660729960</updated>
++    </task>
++    <task id="LOCAL-00010" summary="wrote functions for all operations">
++      <created>1679662550926</created>
++      <option name="number" value="00010" />
++      <option name="presentableId" value="LOCAL-00010" />
++      <option name="project" value="LOCAL" />
++      <updated>1679662550926</updated>
++    </task>
++    <option name="localTasksCounter" value="11" />
+     <servers />
+   </component>
+   <component name="TypeScriptGeneratedFilesManager">
+@@ -150,6 +203,10 @@
+   </component>
+   <component name="VcsManagerConfiguration">
+     <MESSAGE value="commit" />
+-    <option name="LAST_COMMIT_MESSAGE" value="commit" />
++    <MESSAGE value="added task1" />
++    <MESSAGE value="added task2" />
++    <MESSAGE value="added task3" />
++    <MESSAGE value="wrote functions for all operations" />
++    <option name="LAST_COMMIT_MESSAGE" value="wrote functions for all operations" />
+   </component>
+ </project>
+\ No newline at end of file
