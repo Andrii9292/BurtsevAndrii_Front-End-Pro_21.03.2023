@@ -1,12 +1,12 @@
 'use strict';
 //task1
-let name=('Джон');
-let admin=name;
+let name = 'Джон';
+let admin = name;
 alert(admin);
 //task2
-let blueMarble=('Земля')
+let blueMarble = 'Земля';
 alert(blueMarble);
-let currentUserName=('John');
+let currentUserName = 'John';
 alert(currentUserName);
 //task3
 let line = '10' + 10;
