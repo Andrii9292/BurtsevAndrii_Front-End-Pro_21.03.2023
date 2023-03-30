@@ -1,19 +1,22 @@
 'use strict'
-let operation = prompt("Выберите операцию: add, sub, mult, div");
-let num1 = Number(prompt("Введите первое число"));
-let num2 = Number(prompt("Введите второе число"));
-let result;
-if (operation === "add") {
-    result = num1 + num2;
-} else if (operation === "sub") {
-    result = num1 - num2;
-} else if (operation === "mult") {
-    result = num1 * num2;
-} else if (operation === "div") {
-    result = num1 / num2;
-} else {
-    alert("Недопустимая операция");
-}
-if (result !== undefined) {
-    alert(`${num1} ${operation} ${num2} = ${result}`);
-}
+let user = {};
+user.name = 'John';
+user.surname = 'Smith';
+user.name = 'Pete';
+delete user.name;
+//task2
+const user_2 = {
+    name: 'John'
+};
+user_2.name = 'Pete'; // допустимо
+//task3
+let salaries = {
+    John: 100,
+    Ann: 160,
+    Pete: 130
+};
+function add () {
+    return Number(salaries.John + salaries.Ann + salaries.Pete)
+};
+let sum = add ();
+console.log(sum); // 390
