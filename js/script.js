@@ -1,7 +1,7 @@
 'use strict'
-let operation = prompt("Выберите операцию: add, sub, mult, div");
-let num1 = Number(prompt("Введите первое число"));
-let num2 = Number(prompt("Введите второе число"));
+const operation = prompt("Выберите операцию: (add, sub, mult, div)", "add, sub, mult, div");
+const num1 = Number(prompt("Введите первое число"));
+const num2 = Number(prompt("Введите второе число"));
 let result;
 if (operation === "add") {
     result = num1 + num2;
