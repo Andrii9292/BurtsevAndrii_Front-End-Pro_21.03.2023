@@ -1,5 +1,5 @@
 'use strict'
-let user = {};
+const user = {};
 user.name = 'John';
 user.surname = 'Smith';
 user.name = 'Pete';
@@ -10,7 +10,7 @@ const user_2 = {
 };
 user_2.name = 'Pete'; // допустимо
 //task3
-let salaries = {
+const salaries = {
     John: 100,
     Ann: 160,
     Pete: 130
@@ -18,5 +18,5 @@ let salaries = {
 function add () {
     return Number(salaries.John + salaries.Ann + salaries.Pete)
 };
-let sum = add ();
+const sum = add ();
 console.log(sum); // 390
